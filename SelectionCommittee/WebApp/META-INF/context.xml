@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/selection_committee" auth="Container"
+        type="javax.sql.DataSource" username="root" password=""
+        driverClassName="com.mysql.jdbc.Driver"
+        url="jdbc:mysql://localhost:3306/selection_committee"
+        maxActive="20" maxIdle="4" />
+</Context>
